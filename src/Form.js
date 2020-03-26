@@ -1,3 +1,8 @@
+// Pico & Placa Predictor Task Using React.
+// Author Juan Sebastian Vivanco Castro
+// @github juansvc
+// Title: Stackbuilders - Eng. Juan Vivanco
+
 import React, { Component } from 'react';
 import './Form.css';
 import { FormErrors } from './FormErrors';

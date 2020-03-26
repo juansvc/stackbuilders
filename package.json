@@ -1,6 +1,7 @@
 {
   "name": "stackbuilders",
   "version": "0.1.0",
+  "author": "Eng. Juan Vivanco <juansebastianvc@gmail.com> (http://github.com/juansvc)",
   "private": true,
   "dependencies": {
     "bootstrap": "^3.3.7",

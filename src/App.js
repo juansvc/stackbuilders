@@ -1,3 +1,8 @@
+// Pico & Placa Predictor Task Using React.
+// Author Juan Sebastian Vivanco Castro
+// @github juansvc
+// Title: Stackbuilders - Eng. Juan Vivanco
+
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
